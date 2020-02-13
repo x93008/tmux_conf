@@ -1,0 +1,24 @@
+pane	tmux	1	:接收端	1	:*Z	0	:/home/lxx/gitlab/MaxhubAirReceiver	1	zsh	:
+pane	tmux	1	:接收端	1	:*Z	1	:/home/lxx/gitlab/MaxhubAirReceiver/build	0	zsh	:
+pane	tmux	2	:home	0	:Z	0	:/home/lxx	1	zsh	:
+pane	tmux	2	:home	0	:Z	1	:/home/lxx	0	zsh	:
+pane	tmux	2	:home	0	:Z	2	:/home/lxx/QtSource/screen_controller/web	0	zsh	:
+pane	tmux	3	:接收端SDK	0	:-	0	:/home/lxx/gitlab/MaxhubAirReceiverSDK	0	zsh	:
+pane	tmux	3	:接收端SDK	0	:-	1	:/home/lxx/gitlab/MaxhubAirReceiverSDK	1	zsh	:
+pane	tmux	4	:note	0	:	0	:/home/lxx/github/note	1	zsh	:
+pane	tmux	5	:html	0	:	0	:/home/lxx/github/learn/lhtml	0	zsh	:
+pane	tmux	5	:html	0	:	1	:/home/lxx/github/learn/lhtml	1	zsh	:
+pane	tmux	6	:zsh	0	:	0	:/home/lxx/gitlab/linux-scm	1	zsh	:
+pane	tmux	6	:zsh	0	:	1	:/home/lxx/gitlab/linux-scm	0	zsh	:
+pane	tmux	6	:zsh	0	:	2	:/home/lxx/gitlab/system_api	0	zsh	:
+pane	tmux	7	:zsh	0	:	0	:/home/lxx/gitlab/remote_touch_lib	1	zsh	:
+pane	tmux	8	:zsh	0	:	0	:/home/lxx/QtSource/build-screen_controller-unknown-Debug	1	zsh	:
+window	tmux	1	1	:*Z	9cb1,147x33,0,0[147x16,0,0,1,147x16,0,17,2]
+window	tmux	2	0	:Z	7fe4,147x33,0,0[147x16,0,0{73x16,0,0,3,73x16,74,0,4},147x16,0,17,5]
+window	tmux	3	0	:-	1cbe,147x33,0,0[147x16,0,0,6,147x16,0,17,7]
+window	tmux	4	0	:	b905,147x33,0,0,8
+window	tmux	5	0	:	0ea7,147x33,0,0[147x16,0,0,9,147x16,0,17,10]
+window	tmux	6	0	:	9898,147x33,0,0[147x16,0,0{73x16,0,0,11,73x16,74,0,12},147x16,0,17,13]
+window	tmux	7	0	:	5cb3,147x33,0,0,14
+window	tmux	8	0	:	5cb4,147x33,0,0,15
+state	tmux	

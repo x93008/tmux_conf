@@ -1,0 +1,17 @@
+pane	tmux	1	:接收端	1	:*	0	:/home/lxx/gitlab/MaxhubAirReceiver	0	zsh	:
+pane	tmux	1	:接收端	1	:*	1	:/home/lxx/gitlab/MaxhubAirReceiver/build	1	zsh	:
+pane	tmux	2	:home	0	:	0	:/home/lxx	1	zsh	:
+pane	tmux	2	:home	0	:	1	:/run/media/lxx/新加卷/PDF	0	zsh	:
+pane	tmux	3	:接收端SDK	0	:	0	:/home/lxx/gitlab/MaxhubAirReceiverSDK	1	zsh	:
+pane	tmux	3	:接收端SDK	0	:	1	:/home/lxx/gitlab/MaxhubAirReceiverSDK	0	zsh	:
+pane	tmux	4	:note	0	:	0	:/home/lxx/github/note	1	zsh	:
+pane	tmux	5	:html	0	:	0	:/home/lxx/github/learn/lhtml	0	zsh	:
+pane	tmux	5	:html	0	:	1	:/home/lxx/github/learn/lhtml	1	zsh	:
+pane	tmux	6	:zsh	0	:-	0	:/home/lxx/gitlab/system_api	1	zsh	:
+window	tmux	1	1	:*	9cb1,147x33,0,0[147x16,0,0,1,147x16,0,17,2]
+window	tmux	2	0	:	9cb6,147x33,0,0[147x16,0,0,3,147x16,0,17,4]
+window	tmux	3	0	:	9cbb,147x33,0,0[147x16,0,0,5,147x16,0,17,6]
+window	tmux	4	0	:	b904,147x33,0,0,7
+window	tmux	5	0	:	1cc3,147x33,0,0[147x16,0,0,8,147x16,0,17,9]
+window	tmux	6	0	:-	5caf,147x33,0,0,10
+state	tmux	
