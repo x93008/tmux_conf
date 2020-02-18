@@ -3,7 +3,10 @@
     <id>com.cvte.maxhub.cast</id>
     <name>MaxhubAirReceiver</name>
     <summary>this is screenshare app</summary>
-    <metadata_license>MaxhubAirReceiver</metadata_license>
+    <metadata_license>MIT</metadata_license>
+    <description>
+        <p>该软件是一个商用传屏软件，旨在为企业及个人用户提供传屏服务 </p>
+    </description>
 
     <releases>
         <release version="0.0.0.0" date="DATE" />
