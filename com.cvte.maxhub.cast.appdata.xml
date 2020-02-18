@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>com.cvte.maxhub.cast</id>
+    <name>MaxhubAirReceiver</name>
+    <summary>this is screenshare app</summary>
+
+    <releases>
+        <release version="0.0.0.0" date="DATE" />
+    </releases>
+</component>
